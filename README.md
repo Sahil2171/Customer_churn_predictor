@@ -12,7 +12,7 @@ A Streamlit web app that predicts whether a telecom customer is likely to churn,
 ## 🔗 Live Demo
 
 <!-- Add your deployed Streamlit app link below -->
-**[▶️ Try the app here](your-live-link-here)**
+**[▶️ Try the app here](https://customerchurnpredictor001.streamlit.app/)**
 
 ---
 
