@@ -114,7 +114,7 @@ The app will open in your browser at `http://localhost:8501`.
 Built by **Sahil** — Final-year MCA (Data Science) student.
 
 - GitHub: [@Sahil2171](https://github.com/Sahil2171)
-- LinkedIn: _add link_
+- LinkedIn: [@Sahil2171](https://www.linkedin.com/in/sahilpatil2171)
 
 ---
 
