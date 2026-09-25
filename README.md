@@ -23,11 +23,11 @@ A Streamlit web app that predicts whether a telecom customer is likely to churn,
 
 | Home Page | Prediction Result |
 |:---:|:---:|
-| _screenshot here_ | _screenshot here_ |
+| ![Home Page](screenshot/homepage.png)| ![Result](screenshot/result.png) |
 
 | Model Details Section | About Section |
 |:---:|:---:|
-| _screenshot here_ | _screenshot here_ |
+| ![Details](screenshot/details.png) | ![about](screenshot/about.png) |
 
 ---
 
@@ -92,7 +92,9 @@ The app will open in your browser at `http://localhost:8501`.
 
 ```
 ├── app.py                          # Main Streamlit application
+├── styles.py                       # Main Styling sheet
 ├── customer_churn_model.pkl        # Trained churn prediction model
+├── encoders.pkl
 ├── requirements.txt                # Python dependencies
 ├── assets/                         # Screenshots and static assets
 └── README.md
@@ -102,10 +104,10 @@ The app will open in your browser at `http://localhost:8501`.
 
 ## 🧠 Model Details
 
-- **Type:** _(e.g., Random Forest / Logistic Regression / XGBoost)_
+- **Type:** _Random Forest Classifier
 - **Trained on:** Telco Customer Churn dataset
-- **Accuracy:** _add your model's accuracy/metrics here_
-- **Training notebook:** [Google Colab link](your-colab-link-here)
+- **Accuracy:** 84%
+- **Training notebook:** [Google Colab link](https://colab.research.google.com/drive/1QIn16itjYjR7OhZeDDWW5d3VjIwIckpF?usp=sharing)
 
 ---
 
